@@ -8,7 +8,7 @@
 - 🇻🇪 I'm from Venezuela
 - 🎬 I majored in Film Production at Miami Dade College
 - 💻 I graduated from Flatiron School's Software Engineering bootcamp
-- 📚 I love media production, and all the creative side of code. 
+- 📚 I love the creative side of code. 
 
 ### Connect with me:
 

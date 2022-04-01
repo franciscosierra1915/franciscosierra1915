@@ -15,8 +15,8 @@
 [<img align="left" alt="https://franksierra.net/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="franciscosierra | YouTube" width="22px" src="https://img.icons8.com/office/344/youtube-play.png" />][youtube]
 [<img align="left" alt="franciscosierra | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="franciscosierra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="franciscosierra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="franciscosierra | LinkedIn" width="22px" src="https://img.icons8.com/office/344/linkedin.png" />][linkedin]
+[<img align="left" alt="franciscosierra | Instagram" width="22px" src="https://img.icons8.com/office/344/instagram-new.png" />][instagram]
 
 <br />
 

@@ -21,6 +21,6 @@
 
 <br/>
 
-[twitter]: https://twitter.com/Francisco191519
+[twitter]: https://x.com/franksierra_
 [youtube]: https://www.youtube.com/channel/UCFDp5xoqqDfeiJwyHLkJk7A?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/francisco-sierra-munoz/

@@ -22,8 +22,7 @@ My background includes frontend development (React, TypeScript, Next.js, animati
 <p>
 View my 
 <a href="https://docs.google.com/document/d/1fQSbv-4bnuM373wVbPqsYFSNuCx2tH_B3cQ0aJ9iRPo/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
-resume
-</a>.
+resume</a>.
 </p>
 
 ### Connect with me:

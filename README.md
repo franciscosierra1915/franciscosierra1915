@@ -1,13 +1,30 @@
-
-### My name is Francisco Sierra - but you can call me Frank ✌🏽
+### My name is Francisco Sierra — but you can call me Frank ✌🏽
 
 [![Website](https://img.shields.io/badge/franciscosierra-website-orange)](https://franciscosierra.netlify.app/)
 
-### I am a User Experience Developer passionate about digital gardening and functional programming.
-### Currently, a Project Manager at Fibex Telecom.
+### User Experience Developer · Project Manager · Computer Science Student  
+#### Focused on AI-driven systems, scalable interfaces, and technical leadership
 
-<p>Also, I am pursuing a Bachelor's degree in Computer Science at <a href="https://www.cis.fiu.edu/degree/b-a-computer-science/" target="_blank" rel="noopener noreferrer">Florida International University (FIU)</a>, focusing on designing and coding interfaces for A.I. In addition to my studies, I work part-time as a Project Manager at <a href="https://www.fibextelecom.net/" target="_blank" rel="noopener noreferrer">Fibex Telecom</a>, where I oversee the development of an eCommerce platform. I actively apply Agile methodologies, and  utilize Microsoft Planner to drive projects forward.</p>
-<p>View my <a href="https://docs.google.com/document/d/1b9gumNaMtXWJgmzTUnxxeia7UNM9Tm3ZQdKJd-p9Lww/edit?usp=sharing" target="_blank" rel="noopener noreferrer">resume</a>.</p>
+I am a User Experience Developer with an engineering mindset and a Project Manager in the telecommunications and AI space. My work sits at the intersection of frontend development and product design, with a strong emphasis on building clear, usable, and scalable software.
+
+I am currently pursuing a Bachelor’s degree in Computer Science at <a href="https://www.cis.fiu.edu/degree/b-a-computer-science/" target="_blank" rel="noopener noreferrer">Florida International University (FIU)</a>, where my academic focus is on software engineering fundamentals, algorithms, and AI-oriented interfaces.
+
+In parallel, I work as a Project Manager at <a href="https://www.fibextelecom.net/" target="_blank" rel="noopener noreferrer">Fibex Telecom</a>, a leading ISP in Latin America. In this role, I:
+
+- Lead AI-driven and cloud-based software initiatives (ERP, CRM, eCommerce, automation tools)
+- Coordinate cross-functional teams and international development partners
+- Translate business and operational needs into technical requirements and delivery plans
+- Apply Agile methodologies and use tools like Microsoft Planner, Teams, and modern AI copilots to drive execution
+- Focus on process clarity, documentation, and measurable outcomes
+
+My background includes frontend development (React, TypeScript, Next.js, animations, and design systems), UX/UI design, and a growing specialization in AI-enabled products and technical project leadership. I care deeply about teamwork, maintainable code, thoughtful interfaces, and long-term system design.
+
+<p>
+View my 
+<a href="https://docs.google.com/document/d/1fQSbv-4bnuM373wVbPqsYFSNuCx2tH_B3cQ0aJ9iRPo/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+resume
+</a>.
+</p>
 
 ### Connect with me:
 
